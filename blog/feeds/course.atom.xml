@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>2017Fall CADP&amp;CP (虎尾科大MDE) - Course</title><link href="https://cpb.kmol.info/40623210/doc/trunk/blog/" rel="alternate"></link><link href="https://cpb.kmol.info/40623210/doc/trunk/blog/feeds/course.atom.xml" rel="self"></link><id>https://cpb.kmol.info/40623210/doc/trunk/blog/</id><updated>2017-11-06T14:00:00+08:00</updated><entry><title>計算機程式第九週學習心得</title><link href="https://cpb.kmol.info/40623210/doc/trunk/blog/40623210-2017-fall-cadp-w9.html" rel="alternate"></link><published>2017-11-06T14:00:00+08:00</published><updated>2017-11-06T14:00:00+08:00</updated><author><name>40623210</name></author><id>tag:cpb.kmol.info,2017-11-06:/40623210/doc/trunk/blog/40623210-2017-fall-cadp-w9.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;期中簡報&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://cpb.kmol.info/40623210/doc/trunk/10.html"&gt;投影片&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;影片&lt;/p&gt;
+&lt;iframe width="600" height="500" src="https://www.youtube.com/embed/TDeAfc2r3bM" frameborder="0" gesture="media" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/242557186" width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/242557186"&gt;國立虎尾科技大學 機械設計工程系 計算機程式 40623210 w9&lt;/a&gt; from &lt;a href="https://vimeo.com/user73246877"&gt;翁嘉宏&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>計算機程式第八週學習心得</title><link href="https://cpb.kmol.info/40623210/doc/trunk/blog/40623210-w8.html" rel="alternate"></link><published>2017-10-30T20:55:00+08:00</published><updated>2017-10-30T20:55:00+08:00</updated><author><name>40623210</name></author><id>tag:cpb.kmol.info,2017-10-30:/40623210/doc/trunk/blog/40623210-w8.html</id><summary type="html">&lt;h4&gt;w8&lt;/h4&gt;
+</summary><content type="html">&lt;h4&gt;w8&lt;/h4&gt;
+
+
+&lt;h3&gt;操作影片:&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/240481182" width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/240481182"&gt;虎尾科技大學-機械設計工程系-計算機程式-40623210-w8&lt;/a&gt; from &lt;a href="https://vimeo.com/user73246877"&gt;翁嘉宏&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe width="600" height="500" src="https://www.youtube.com/embed/ToM4w0-z0os" frameborder="0" gesture="media" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;學習心得:&lt;/h3&gt;
+&lt;p&gt;今天在課堂上學到python基本的for 迴圈與 print( )函式的用法，雖然還不識很熟悉但已慢慢了解函式內的意義。了解如何用eric6建立之後課堂會用使用到的計算機基本介面。&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category><category term="w8"></category></entry><entry><title>計算機程式第七週學習心得</title><link href="https://cpb.kmol.info/40623210/doc/trunk/blog/40623210-w7-exam.html" rel="alternate"></link><published>2017-10-23T14:00:00+08:00</published><updated>2017-10-23T14:00:00+08:00</updated><author><name>40623210</name></author><id>tag:cpb.kmol.info,2017-10-23:/40623210/doc/trunk/blog/40623210-w7-exam.html</id><summary type="html">&lt;p&gt;w7-exam&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;w7-exam&lt;/p&gt;
+
+
+&lt;h3&gt;操作影片:&lt;/h3&gt;
+&lt;iframe src="https://player.vimeo.com/video/240372960" width="600" height="500" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/240372960"&gt;國立虎尾科技大學-機械設計工程系-計算機程式-40623210&lt;/a&gt; from &lt;a href="https://vimeo.com/user73246877"&gt;翁嘉宏&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;iframe width="600" height="500" src="https://www.youtube.com/embed/0Jh8Hh4t9c4" frameborder="0" gesture="media" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;學習心得:&lt;/h3&gt;
+&lt;p&gt;在這門課中，讓原本不懂任何程式語碼及語碼規則的我有了一點點基本概念，在課程中學習到做任何事都要有紀錄的習慣!還有學到如何用ShareX錄製影片。&lt;/p&gt;
+&lt;h3&gt;自評成績:&lt;/h3&gt;
+&lt;p&gt;每週出席情況:100&lt;/p&gt;
+&lt;p&gt;紙本筆記:60&lt;/p&gt;
+&lt;p&gt;隨身碟內容:70&lt;/p&gt;
+&lt;p&gt;個人倉儲內容:70&lt;/p&gt;
+&lt;p&gt;各週上課摘要:70&lt;/p&gt;
+&lt;p&gt;自評分數:70&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category><category term="w7"></category><category term="exam"></category></entry><entry><title>計算機程式第六週學習心得</title><link href="https://cpb.kmol.info/40623210/doc/trunk/blog/40623210-w6.html" rel="alternate"></link><published>2017-10-16T14:00:00+08:00</published><updated>2017-10-16T14:00:00+08:00</updated><author><name>40623210</name></author><id>tag:cpb.kmol.info,2017-10-16:/40623210/doc/trunk/blog/40623210-w6.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;課程內容&lt;/h3&gt;
+&lt;p&gt;複習前四次上課內容&lt;/p&gt;
+&lt;p&gt;修改個人倉儲的密碼和標準時間&lt;/p&gt;
+&lt;p&gt;用fossil clone複製範例4062倉儲和網誌與投影片內容和提交到自己的倉儲及網誌。&lt;/p&gt;
+&lt;p&gt;如果資料變更, 可以利用 fossil status 查看內容, 必要時利用 fossil delete 刪除miss掉的檔案&lt;/p&gt;
+&lt;p&gt;for 迴圈用法:
+ for i in range( ):
+    print(i)&lt;/p&gt;
+&lt;p&gt;使用指令:&lt;/p&gt;
+&lt;p&gt;fossil clone&lt;/p&gt;
+&lt;p&gt;fossil open&lt;/p&gt;
+&lt;p&gt;mkdir&lt;/p&gt;
+&lt;p&gt;fossil add .&lt;/p&gt;
+&lt;p&gt;fossil commit -m " "&lt;/p&gt;
+&lt;p&gt;fossil status&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category><category term="w6"></category></entry><entry><title>計算機程式第五週學習心得</title><link href="https://cpb.kmol.info/40623210/doc/trunk/blog/40623210-w5.html" rel="alternate"></link><published>2017-10-09T14:00:00+08:00</published><updated>2017-10-09T14:00:00+08:00</updated><author><name>40623210</name></author><id>tag:cpb.kmol.info,2017-10-09:/40623210/doc/trunk/blog/40623210-w5.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</content><category term="2017fall"></category><category term="CADP"></category><category term="w5"></category></entry><entry><title>計算機程式第四週學習心得</title><link href="https://cpb.kmol.info/40623210/doc/trunk/blog/40623210-w4.html" rel="alternate"></link><published>2017-10-02T14:00:00+08:00</published><updated>2017-10-02T14:00:00+08:00</updated><author><name>40623210</name></author><id>tag:cpb.kmol.info,2017-10-02:/40623210/doc/trunk/blog/40623210-w4.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;課程內容&lt;/h3&gt;
+&lt;p&gt;如果資料變更,可以利用 fossil status 查看狀態, 必要時利用 fossil delete 修改miss內容。&lt;/p&gt;
+&lt;p&gt;在命令列中以 mkdir 建立所需資料夾&lt;/p&gt;
+&lt;p&gt;ignore-glob 檔案內容: /.git/, /pycache/, /.pyc&lt;/p&gt;
+&lt;h3&gt;使用指令&lt;/h3&gt;
+&lt;p&gt;fossil status&lt;/p&gt;
+&lt;p&gt;fossil delete&lt;/p&gt;
+&lt;h3&gt;課程單字&lt;/h3&gt;
+&lt;p&gt;analog:類比&lt;/p&gt;
+&lt;p&gt;digital:數位&lt;/p&gt;
+&lt;p&gt;sampling:取樣&lt;/p&gt;
+&lt;p&gt;animation:動畫&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category><category term="w4"></category></entry><entry><title>計算機程式第三週學習心得</title><link href="https://cpb.kmol.info/40623210/doc/trunk/blog/40623210-w3.html" rel="alternate"></link><published>2017-09-25T14:00:00+08:00</published><updated>2017-09-25T14:00:00+08:00</updated><author><name>40623210</name></author><id>tag:cpb.kmol.info,2017-09-25:/40623210/doc/trunk/blog/40623210-w3.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;課程內容&lt;/h3&gt;
+&lt;h3&gt;指令:&lt;/h3&gt;
+&lt;p&gt;.所在目錄&lt;/p&gt;
+&lt;p&gt;..上個目錄&lt;/p&gt;
+&lt;p&gt;fossil clone 克隆&lt;/p&gt;
+&lt;p&gt;fossil open 打開壓縮檔案&lt;/p&gt;
+&lt;p&gt;mkdir 新建資料夾&lt;/p&gt;
+&lt;p&gt;fossil add .增加全部&lt;/p&gt;
+&lt;p&gt;fossil commit -m " "提交&lt;/p&gt;
+&lt;p&gt;課程單字:&lt;/p&gt;
+&lt;p&gt;configuration:組態&lt;/p&gt;
+&lt;p&gt;remark:說明&lt;/p&gt;
+&lt;p&gt;remark batch:批次&lt;/p&gt;
+&lt;p&gt;default:默認&lt;/p&gt;
+&lt;p&gt;protocol:協定&lt;/p&gt;
+&lt;p&gt;cerification:簽章&lt;/p&gt;
+&lt;p&gt;certify:認證&lt;/p&gt;
+&lt;p&gt;vacuuming:吸塵&lt;/p&gt;
+&lt;p&gt;IDE:整合開發環境&lt;/p&gt;
+&lt;p&gt;I:integrated&lt;/p&gt;
+&lt;p&gt;D:development&lt;/p&gt;
+&lt;p&gt;E:environment&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category><category term="w3"></category></entry><entry><title>計算機程式第二週學習心得</title><link href="https://cpb.kmol.info/40623210/doc/trunk/blog/40623210-2017-fall-cadp-w2.html" rel="alternate"></link><published>2017-09-20T14:00:00+08:00</published><updated>2017-09-20T14:00:00+08:00</updated><author><name>40623210</name></author><id>tag:cpb.kmol.info,2017-09-20:/40623210/doc/trunk/blog/40623210-2017-fall-cadp-w2.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;課程內容&lt;/h3&gt;
+&lt;p&gt;修改倉儲的密碼和正確時間&lt;/p&gt;
+&lt;p&gt;WiKi的使用方法&lt;/p&gt;
+&lt;h3&gt;課程單字&lt;/h3&gt;
+&lt;p&gt;administrator:管理者&lt;/p&gt;
+&lt;p&gt;grant:准許&lt;/p&gt;
+&lt;p&gt;privileges:特權&lt;/p&gt;
+&lt;p&gt;individual:個別的&lt;/p&gt;
+&lt;p&gt;capabilites:被給的權利&lt;/p&gt;
+&lt;p&gt;anonymous:匿名的&lt;/p&gt;
+&lt;p&gt;certificate:認證&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry><entry><title>計算機程式第一週學習心得</title><link href="https://cpb.kmol.info/40623210/doc/trunk/blog/40623210-2017-fall-cadp-w1.html" rel="alternate"></link><published>2017-09-11T14:00:00+08:00</published><updated>2017-09-11T14:00:00+08:00</updated><author><name>40623210</name></author><id>tag:cpb.kmol.info,2017-09-11:/40623210/doc/trunk/blog/40623210-2017-fall-cadp-w1.html</id><summary type="html"></summary><content type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;課程摘要&lt;/h3&gt;
+&lt;p&gt;機械設計是種表達:包含固體、流體、軟體、註解&lt;/p&gt;
+&lt;p&gt;六種表達:口語、文字、圖表、3D、數字、實體&lt;/p&gt;
+&lt;p&gt;創造力:自學力、執行力、想像力&lt;/p&gt;
+&lt;p&gt;程式: 程:流程 式:正確格式&lt;/p&gt;
+&lt;h3&gt;課程單字:&lt;/h3&gt;
+&lt;p&gt;interpreter:解譯&lt;/p&gt;
+&lt;p&gt;SCM:軟體配置管理&lt;/p&gt;
+&lt;p&gt;S:software 軟體&lt;/p&gt;
+&lt;p&gt;C:configuration 組態&lt;/p&gt;
+&lt;p&gt;M:management 管理&lt;/p&gt;</content><category term="2017fall"></category><category term="CADP"></category></entry></feed>
